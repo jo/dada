@@ -1,4 +1,1 @@
-dada
-====
-
-In Data we Trust!
+# in dada we trust
